@@ -1,6 +1,5 @@
 <?php
-require('./includes/_auth_functions.inc.php');
-if (!isset($pass_errors)) $pass_errors = array();
+require('./includes/auth_functions.inc.php');
 
 if (filter_var($_POST['email'], FILTER_VALIDATE_EMAIL)) {
   $e = escape_data($_POST['email'], $dbc);
@@ -21,10 +20,10 @@ if (empty($pass_errors)) {
     if (mysqli_affected_rows($dbc) === 1) {
       $body = sprintf(FORGOT_PASS_EMAIL_BODY, $p);
       mail($_POST['email'], FORGOT_PASS_EMAIL_SUBJ, $body, 'From: '.SITE_FROM_EMAIL);
-      include('./includes/login/_form.inc.php');
-      include('./includes/_start_main.inc.php');
+      include('./includes/login/form.inc.php');
+      include('./includes/start_main.inc.php');
       echo FORGOT_PASS_MSG;
-      include('./includes/_footer.inc.php');
+      include('./includes/footer.inc.php');
       exit;
     } else {
       trigger_error(FORGOT_PASS_ERROR);

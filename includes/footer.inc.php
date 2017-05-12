@@ -7,7 +7,7 @@
       <div class="container">
         <p class="text-muted credit"><span class="pull-left"><a href="site_map.php">Site Map</a> | 
                 <a href="policies.php">Policies</a></span> 
-                <span class="pull-right">&copy; Knowledge is Power - 2013</span></p>
+                <span class="pull-right">&copy; 2017 John J. Vaughn & 2013 Knowledge is Power</span></p>
       </div>
     </div>
 

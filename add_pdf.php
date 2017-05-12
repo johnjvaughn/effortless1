@@ -1,14 +1,16 @@
 <?php
 require('./includes/config.inc.php');
+redirect_invalid_user('user_admin');
 require(MYSQL);
-$page_title = 'Register';
+
+$page_title = "Add a PDF";
 include('./includes/header.inc.php');
 include('./includes/start_main.inc.php');
-
-$reg_errors = array();
+$add_pdf_errors = array();
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-  require('./includes/register/process.inc.php');
+  include('./includes/add_pdf/process.inc.php');
+} else {
+  unset($_SESSION['pdf']);
 }
-require('./includes/register/form.inc.php');
+include('./includes/add_pdf/form.inc.php');
 include('./includes/footer.inc.php');
-

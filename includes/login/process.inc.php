@@ -1,5 +1,5 @@
 <?php
-require('./includes/_auth_functions.inc.php');
+require('./includes/auth_functions.inc.php');
 
 $login_errors = array();
 if (filter_var($_POST['email'], FILTER_VALIDATE_EMAIL)) {
@@ -26,7 +26,7 @@ if (empty($login_errors)) {
       }
       $_SESSION['user_id'] = $row['id'];
       $_SESSION['username'] = $row['username'];
-      if ($row['expired'] === 1) {
+      if ($row['expired'] === '1') {
         $_SESSION['user_not_expired'] = true;
       }
     } else {

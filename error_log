@@ -1,0 +1,136 @@
+[06-May-2017 08:20:01] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home3/johnjva1/public_html/Effortless1/includes/header.html on line 102
+[06-May-2017 08:22:02] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home3/johnjva1/public_html/Effortless1/includes/header.html on line 102
+[06-May-2017 08:25:40] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home3/johnjva1/public_html/Effortless1/includes/header.html on line 102
+[06-May-2017 08:28:54] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home3/johnjva1/public_html/Effortless1/includes/header.html on line 102
+[06-May-2017 12:09:44] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home3/johnjva1/public_html/Effortless1/version-test.php on line 3
+[06-May-2017 12:09:44] PHP Parse error:  syntax error, unexpected T_STRING in /home3/johnjva1/public_html/Effortless1/version-test.php on line 3
+[06-May-2017 15:13:04] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required './includes/form_functions.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home3/johnjva1/public_html/Effortless1/includes/register/_action.inc.php on line 2
+[06-May-2017 15:14:24] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../form_functions.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home3/johnjva1/public_html/Effortless1/includes/register/_action.inc.php on line 2
+[06-May-2017 15:15:15] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../form_functions.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home3/johnjva1/public_html/Effortless1/includes/register/_action.inc.php on line 3
+[06-May-2017 15:16:04] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required './includes/form_functions.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home3/johnjva1/public_html/Effortless1/includes/register/_form.inc.php on line 3
+[07-May-2017 12:55:36] PHP Fatal error:  Cannot redeclare my_password_hash() (previously declared in /home3/johnjva1/public_html/Effortless1/includes/register/_process.inc.php:3) in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php on line 50
+[07-May-2017 12:57:07] PHP Fatal error:  Cannot redeclare my_password_hash() (previously declared in /home3/johnjva1/public_html/Effortless1/includes/register/_process.inc.php:3) in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php on line 50
+[07-May-2017 13:12:05] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening './language.inc.php' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home3/johnjva1/public_html/Effortless1/includes/config.inc.php on line 2
+[07-May-2017 13:13:51] PHP Fatal error:  Call to undefined function  random_bytes() in /home3/johnjva1/public_html/Effortless1/includes/register/_process.inc.php on line 7
+[07-May-2017 13:19:30] PHP Fatal error:  Call to undefined function  random_bytes() in /home3/johnjva1/public_html/Effortless1/includes/register/_process.inc.php on line 7
+[07-May-2017 13:20:54] PHP Fatal error:  Call to undefined function  random_bytes() in /home3/johnjva1/public_html/Effortless1/includes/register/_process.inc.php on line 7
+[07-May-2017 13:21:34] PHP Fatal error:  Call to undefined function  random_bytes() in /home3/johnjva1/public_html/Effortless1/includes/register/_process.inc.php on line 7
+[07-May-2017 13:21:54] PHP Fatal error:  Call to undefined function  random_bytes() in /home3/johnjva1/public_html/Effortless1/includes/register/_process.inc.php on line 7
+[07-May-2017 13:22:47] PHP Fatal error:  Call to undefined function  random_bytes() in /home3/johnjva1/public_html/Effortless1/includes/register/_process.inc.php on line 7
+[07-May-2017 13:24:01] PHP Fatal error:  Call to undefined function  random_bytes() in /home3/johnjva1/public_html/Effortless1/includes/register/_process.inc.php on line 7
+[07-May-2017 13:25:26] PHP Fatal error:  Call to undefined function  random_bytes() in /home3/johnjva1/public_html/Effortless1/includes/register/_process.inc.php on line 7
+[07-May-2017 13:26:21] PHP Fatal error:  Call to undefined function  random_bytes() in /home3/johnjva1/public_html/Effortless1/includes/register/_process.inc.php on line 8
+[07-May-2017 13:27:07] PHP Fatal error:  Call to undefined function  random_bytes() in /home3/johnjva1/public_html/Effortless1/includes/register/_process.inc.php on line 7
+[07-May-2017 19:32:10] PHP Parse error:  syntax error, unexpected T_SL in /home3/johnjva1/public_html/Effortless1/includes/header.html on line 89
+[08-May-2017 09:33:19] PHP Fatal error:  Cannot redeclare create_form_input() (previously declared in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php:3) in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php on line 40
+[08-May-2017 09:35:58] PHP Fatal error:  Cannot redeclare create_form_input() (previously declared in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php:3) in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php on line 40
+[08-May-2017 09:36:06] PHP Fatal error:  Cannot redeclare create_form_input() (previously declared in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php:3) in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php on line 40
+[08-May-2017 09:36:38] PHP Fatal error:  Cannot redeclare create_form_input() (previously declared in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php:3) in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php on line 40
+[08-May-2017 09:36:43] PHP Fatal error:  Cannot redeclare create_form_input() (previously declared in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php:3) in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php on line 40
+[08-May-2017 09:37:38] PHP Fatal error:  Cannot redeclare create_form_input() (previously declared in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php:3) in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php on line 40
+[08-May-2017 09:40:12] PHP Fatal error:  Cannot redeclare create_form_input() (previously declared in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php:3) in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php on line 40
+[08-May-2017 09:45:28] PHP Fatal error:  Cannot redeclare create_form_input() (previously declared in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php:3) in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php on line 40
+[08-May-2017 09:47:06] PHP Fatal error:  Cannot redeclare create_form_input() (previously declared in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php:3) in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php on line 40
+[08-May-2017 12:26:44] PHP Fatal error:  Cannot redeclare create_form_input() (previously declared in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php:3) in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php on line 40
+[08-May-2017 12:26:53] PHP Fatal error:  Cannot redeclare create_form_input() (previously declared in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php:3) in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php on line 40
+[08-May-2017 12:30:59] PHP Fatal error:  Cannot redeclare create_form_input() (previously declared in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php:3) in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php on line 40
+[08-May-2017 12:31:54] PHP Fatal error:  Cannot redeclare create_form_input() (previously declared in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php:3) in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php on line 40
+[08-May-2017 12:37:15] PHP Fatal error:  Cannot redeclare create_form_input() (previously declared in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php:3) in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php on line 40
+[08-May-2017 13:37:16] PHP Fatal error:  Call to undefined function    my_password_hash() in /home3/johnjva1/public_html/Effortless1/includes/forgot_password/_process.inc.php on line 15
+[08-May-2017 13:40:58] PHP Fatal error:  Call to undefined function    my_password_hash() in /home3/johnjva1/public_html/Effortless1/includes/forgot_password/_process.inc.php on line 15
+[08-May-2017 13:50:17] PHP Fatal error:  Call to undefined function    my_password_hash() in /home3/johnjva1/public_html/Effortless1/includes/forgot_password/_process.inc.php on line 15
+[08-May-2017 13:57:43] PHP Fatal error:  Call to undefined function    my_password_hash() in /home3/johnjva1/public_html/Effortless1/includes/forgot_password/_process.inc.php on line 16
+[09-May-2017 15:03:48] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required './includes/error_page.inc.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home3/johnjva1/public_html/Effortless1/category.php on line 10
+[09-May-2017 18:28:53] PHP Fatal error:  Call to undefined function  display_form_element() in /home3/johnjva1/public_html/Effortless1/includes/register/form.inc.php on line 13
+[10-May-2017 09:21:35] PHP Fatal error:  Call to undefined function  finfo_open() in /home3/johnjva1/public_html/Effortless1/includes/add_pdf/process.inc.php on line 13
+[10-May-2017 09:27:02] PHP Fatal error:  Call to undefined function  finfo_open() in /home3/johnjva1/public_html/Effortless1/includes/add_pdf/process.inc.php on line 14
+[10-May-2017 09:31:08] PHP Fatal error:  Call to undefined function  finfo_open() in /home3/johnjva1/public_html/Effortless1/includes/add_pdf/process.inc.php on line 14
+[10-May-2017 12:24:02 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:24:07 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:26:39 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:26:47 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:34:23 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:34:26 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:35:00 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:36:16 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:36:42 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:37:05 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:38:10 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:38:16 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:38:20 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:38:24 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:38:29 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:39:03 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:39:25 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:40:09 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:41:28 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:41:34 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:41:38 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:41:41 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:41:46 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:42:08 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:42:17 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:43:30 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:43:36 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:43:59 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:44:01 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:45:23 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:45:23 America/Denver] PHP Fatal error:  Cannot redeclare create_form_input() (previously declared in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php:3) in /home3/johnjva1/public_html/Effortless1/includes/form_functions.inc.php on line 60
+[10-May-2017 12:46:44 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:47:19 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:47:33 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:47:54 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:59:35 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 12:59:37 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:00:04 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:00:04 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:00:32 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:00:39 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:00:49 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:01:14 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:01:16 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:04:55 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:04:56 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:04:58 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:05:02 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:05:17 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:05:25 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:05:29 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:05:35 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:29:04 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:29:51 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:29:54 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:29:59 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:30:03 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:30:38 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:32:19 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:32:54 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:34:13 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:35:38 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:35:51 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:36:17 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:36:22 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:36:27 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:59:22 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:59:24 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:59:46 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 13:59:51 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 14:00:14 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 14:01:08 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 14:01:18 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 14:01:22 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 14:01:23 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 14:05:33 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 14:05:46 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 14:05:49 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 14:06:31 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 14:06:35 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 14:06:42 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 14:06:48 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 14:07:53 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 14:08:03 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 14:08:05 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 14:08:09 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 14:08:10 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 14:08:12 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22
+[10-May-2017 14:52:32 America/Denver] PHP Notice:  Constant REG_ENTER_FIRSTNAME already defined in /home3/johnjva1/public_html/Effortless1/includes/language.inc.php on line 22

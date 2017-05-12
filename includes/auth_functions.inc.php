@@ -21,4 +21,3 @@ function my_password_verify ($word, $hash) {
   return false;
 }
 
-
